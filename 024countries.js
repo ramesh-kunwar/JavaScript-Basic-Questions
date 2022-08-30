@@ -1,4 +1,4 @@
-export const countryList = [
+module.export  = [
 	"Afghanistan",
 	"Albania",
 	"Algeria",
